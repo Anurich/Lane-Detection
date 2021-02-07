@@ -35,4 +35,6 @@ The task that we wish to perform is that of real-time lane detection in a video.
  </p>
   
   <h2>Results</h2>
-  
+  <figure>
+    <img src ="image.jpg" heigh="300" width="500"/>
+  </figure>
