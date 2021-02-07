@@ -39,5 +39,7 @@ The task that we wish to perform is that of real-time lane detection in a video.
     <img src ="image.jpg" heigh="300" width="500"/>
   </figure>
 
+<h2> Training Information. </h2>
+<p> These models are not trained with huge dataset total number of images used for semantic segmentation is around 12k where as images used for lane detection is less than 10k due to limited resource.</p>
 <h2> Contribute. </h2>
-Feel free to point out the mistake and to contribute. I will update it once have a better results.
+Feel free to point out mistakes and contribute. I will update it once have a better results.
