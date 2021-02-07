@@ -38,3 +38,6 @@ The task that we wish to perform is that of real-time lane detection in a video.
   <figure>
     <img src ="image.jpg" heigh="300" width="500"/>
   </figure>
+
+<h2> Contribute. </h2>
+Feel free to point out the mistake and to contribute. I will update it once have a better results.
