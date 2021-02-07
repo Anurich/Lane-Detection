@@ -24,7 +24,7 @@ The task that we wish to perform is that of real-time lane detection in a video.
 <h2> Architecture Information for Regression & Semantic Segmentation </h2>
  <p> Regression Architecture
   <ul>
-    <li>I use Alexnet for backbone followed two different dense layer which output left lane and right lane.</li>
+    <li>I use Alexnet for backbone followed by two different dense layer which output left lane and right lane.</li>
   </ul>
  </p>
  
@@ -34,4 +34,5 @@ The task that we wish to perform is that of real-time lane detection in a video.
  </ul>
  </p>
   
+  <h2>Results</h2>
   
