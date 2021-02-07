@@ -8,7 +8,7 @@ The task that we wish to perform is that of real-time lane detection in a video.
 
 <h2> Dataset. </h2>
   <p> For regression I used dataset from TuSimple available https://github.com/TuSimple/tusimple-benchmark/blob/master/doc/lane_detection/guideline.md 
-  where as for semantic segmentation thanks to Michal Virgo https://github.com/mvirgo/MLND-Capstone </p>
+  where as for semantic segmentation i used data provided by Michal Virgo in his github https://github.com/mvirgo/MLND-Capstone. </p>
 <h2> File structure </h2>
   <p>I try to keep the code seprate for lane detection using semantic segmentation vs lane detection using Regression.
   all the files related to semantic segmentation is inside the folder name lane_detection_semantic_segmentation. 
